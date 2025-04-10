@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 03-04-2025 a las 00:19:29
+-- Tiempo de generación: 02-04-2025 a las 00:24:30
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.1.25
 
@@ -111,6 +111,7 @@ CREATE TABLE `productos` (
 --
 
 INSERT INTO `productos` (`id`, `nombre`, `descripcion`, `precio`, `cantidad`, `imagen`, `fecha_agregado`, `id_proveedor`) VALUES
+(20, 'juu', 'ujuj', 23.00, 11, '', '2025-03-20 22:21:35', NULL),
 (21, 'juan', 's', 1.00, 1, '', '2025-03-21 20:13:05', NULL),
 (22, 'papitas', 'p', 1.00, 1, '', '2025-03-21 22:23:58', NULL),
 (23, 'malmiss', 'fefef', 2.00, 1, '', '2025-03-25 17:39:47', NULL),
@@ -120,8 +121,7 @@ INSERT INTO `productos` (`id`, `nombre`, `descripcion`, `precio`, `cantidad`, `i
 (37, 'merenges', 'e', 1.00, 1, '', '2025-03-26 20:46:25', 1),
 (38, 'pepinos', 'ddwd', 1.00, 1, '', '2025-03-26 20:54:03', 1),
 (39, 'jujuj', 'fefwf', 3.00, 11, '', '2025-03-26 21:10:29', 1),
-(40, 'jujuju', 'jujjjjjjjjjjjjjjjjjjjjjjj', 11111.00, 22, '', '2025-03-26 22:01:04', 1),
-(41, 'grgrg', 'wdwd', 22.00, 2, '', '2025-04-02 22:16:42', 1);
+(40, 'jujuju', 'jujjjjjjjjjjjjjjjjjjjjjjj', 11111.00, 22, '', '2025-03-26 22:01:04', 1);
 
 -- --------------------------------------------------------
 
@@ -156,16 +156,9 @@ CREATE TABLE `usuarios` (
   `nombre` varchar(255) NOT NULL,
   `email` varchar(255) NOT NULL,
   `contraseña` varchar(255) NOT NULL,
-  `rol` enum('vendedor','administrador','jefe') NOT NULL,
+  `rol` enum('vendedor','administrador') NOT NULL,
   `fecha_creacion` timestamp NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Volcado de datos para la tabla `usuarios`
---
-
-INSERT INTO `usuarios` (`id`, `nombre`, `email`, `contraseña`, `rol`, `fecha_creacion`) VALUES
-(1, 'pepe', 'test1@gmail.com', '12345678', 'administrador', '2025-04-02 18:44:56');
 
 -- --------------------------------------------------------
 
@@ -268,7 +261,7 @@ ALTER TABLE `inventarios`
 -- AUTO_INCREMENT de la tabla `productos`
 --
 ALTER TABLE `productos`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=42;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=41;
 
 --
 -- AUTO_INCREMENT de la tabla `proveedores`
@@ -280,7 +273,7 @@ ALTER TABLE `proveedores`
 -- AUTO_INCREMENT de la tabla `usuarios`
 --
 ALTER TABLE `usuarios`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT de la tabla `ventas`
