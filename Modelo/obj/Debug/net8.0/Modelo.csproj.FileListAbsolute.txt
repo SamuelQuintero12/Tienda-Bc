@@ -1,0 +1,48 @@
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Samuel Quintero\Tnda-bic\tiendaBc\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\SENA\Desktop\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\SENA\Desktop\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\SENA\Desktop\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\SENA\Desktop\tiendaBc\Modelo\obj\Debug\net8.0\ref\Modelo.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\Modelo\obj\Debug\net8.0\ref\Modelo.dll

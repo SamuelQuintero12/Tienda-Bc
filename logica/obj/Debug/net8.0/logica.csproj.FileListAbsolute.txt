@@ -1,0 +1,60 @@
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\bin\Debug\net8.0\logica.deps.json
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\bin\Debug\net8.0\logica.dll
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\bin\Debug\net8.0\logica.pdb
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\bin\Debug\net8.0\Modelo.dll
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\bin\Debug\net8.0\Modelo.pdb
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.AssemblyReference.cache
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfoInputs.cache
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfo.cs
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.CoreCompileInputs.cache
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.Up2Date
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.dll
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\refint\logica.dll
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\logica.pdb
+C:\Samuel Quintero\Tnda-bic\tiendaBc\logica\obj\Debug\net8.0\ref\logica.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\refint\logica.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.pdb
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfo.cs
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.dll
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\refint\logica.dll
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.pdb
+C:\Users\SENA\Desktop\tiendaBc\logica\bin\Debug\net8.0\logica.deps.json
+C:\Users\SENA\Desktop\tiendaBc\logica\bin\Debug\net8.0\logica.dll
+C:\Users\SENA\Desktop\tiendaBc\logica\bin\Debug\net8.0\logica.pdb
+C:\Users\SENA\Desktop\tiendaBc\logica\bin\Debug\net8.0\Modelo.dll
+C:\Users\SENA\Desktop\tiendaBc\logica\bin\Debug\net8.0\Modelo.pdb
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.Up2Date
+C:\Users\SENA\Desktop\tiendaBc\logica\obj\Debug\net8.0\ref\logica.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\logica.deps.json
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\logica.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\logica.pdb
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\Modelo.dll
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\Modelo.pdb
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.Up2Date
+C:\Users\USUARIO\Desktop\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\ref\logica.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\logica.deps.json
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\logica.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\logica.pdb
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\Modelo.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\bin\Debug\net8.0\Modelo.pdb
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.csproj.Up2Date
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\refint\logica.dll
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\logica.pdb
+C:\Users\SENA\Desktop\Nueva carpeta (2)\tiendaBc\tiendaBc\logica\obj\Debug\net8.0\ref\logica.dll
